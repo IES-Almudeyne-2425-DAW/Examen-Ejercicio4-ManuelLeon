@@ -1,5 +1,5 @@
 body {
-    background-color: #e72525;
+    background-color: #572e2e;
     /* Modifica este color por otro */
     text-align: center;
     margin: 0;
@@ -15,7 +15,7 @@ footer {
 }
 
 article {
-    background-color: #288547;
+    background-color: #2a87c5;
     /* Modifica este color por otro */
     padding: 20px;
     border-radius: 8px;
@@ -26,11 +26,11 @@ article {
 }
 
 p {
-    color: rgb(78, 66, 133);
+    color: rgb(182, 16, 140);
     /* Modifica este color por otro */
 }
 
 h1 {
-    background-color: rgb(179, 179, 19);
+    background-color: rgb(42, 114, 114);
     /* Modifica este color por otro */
 }
