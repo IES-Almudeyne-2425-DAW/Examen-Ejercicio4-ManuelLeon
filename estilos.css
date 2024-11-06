@@ -1,0 +1,36 @@
+body {
+    background-color: #e72525;
+    /* Modifica este color por otro */
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+main,
+header,
+footer {
+    width: 80%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+article {
+    background-color: #288547;
+    /* Modifica este color por otro */
+    padding: 20px;
+    border-radius: 8px;
+    margin: 20px auto;
+    width: 100%;
+    max-width: 800px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+p {
+    color: rgb(78, 66, 133);
+    /* Modifica este color por otro */
+}
+
+h1 {
+    background-color: rgb(179, 179, 19);
+    /* Modifica este color por otro */
+}
